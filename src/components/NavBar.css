@@ -1,0 +1,22 @@
+.navBar{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    flex-direction: row;
+}
+
+.icon{
+    font-size:2rem;
+    color: #3950fa;
+    padding: 0px;
+}
+
+h1{
+    font-weight: 500;
+    text-decoration: none;
+    color: white;
+}
+
+.purple{
+    color: #6900ff;
+}
